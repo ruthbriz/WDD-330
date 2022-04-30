@@ -1,0 +1,17 @@
+header {
+  background-color: #00001a;
+  padding: 10px;
+}
+body{
+    margin: auto;
+  }
+  ul li{
+    text-decoration: none;
+  }
+  p,
+  h1 {
+    color:white;
+  }
+  a {
+    color: navy;
+  }
